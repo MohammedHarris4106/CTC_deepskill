@@ -1,0 +1,2 @@
+Welcome to my first Git repository.
+This is my welcome file.
